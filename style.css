@@ -2,21 +2,51 @@ html{
     font-size: 62.5%;
 }
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #9A1663;
+    margin: auto;
+}
 
-
-.titulo1 {
-    background-color: #0093AB;
-    display: flex;
-    color: #FFD124;
-    justify-content: center;
-    font-family: 'Caveat', cursive;
-    font-size: 5rem;
+main {
+    background-color: #E0144C;
+    height: 500px;
+    width: 100%;
+    border: none;
+    /* background-image:  url("https://media3.giphy.com/media/3lxD1O74siiz5FvrJs/giphy.gif?cid=ecf05e4749qp1mmasl1umjyi6p12a9uegcr6jyyx48ll9w30&rid=giphy.gif&ct=g"); */
+}
+ 
+footer {
+    background-color: #FF97C1;
+    border: none;
     
+}
+.titulo1 {
+    display: flex;
+    color: #FF5858;
+    justify-content: center;
+    font-family: 'Fragment Mono', monospace;
+    font-size: 5rem;
+    border: none;
 }
 
 .titulo2 {
     display: flex;
-    font-family: 'Sono', sans-serif;
+    font-family: 'Lobster', cursive;
     font-size: 3rem;
     justify-content: center;
+    border: none;
+    padding: 20px;
+}
+
+.titulo3{
+    justify-content: right;
+    padding: 25px;
+    font-size: 1.6rem;
+    font
+    
 }
