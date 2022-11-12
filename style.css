@@ -1,0 +1,7 @@
+.titulo1 {
+    background-color: #0093AB;
+    display: flex;
+    color: #FFD124;
+    justify-content: center;
+    font-family: 'Caveat', cursive;
+}
