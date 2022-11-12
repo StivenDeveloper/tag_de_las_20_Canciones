@@ -1,7 +1,22 @@
+html{
+    font-size: 62.5%;
+}
+
+
+
 .titulo1 {
     background-color: #0093AB;
     display: flex;
     color: #FFD124;
     justify-content: center;
     font-family: 'Caveat', cursive;
+    font-size: 5rem;
+    
+}
+
+.titulo2 {
+    display: flex;
+    font-family: 'Sono', sans-serif;
+    font-size: 3rem;
+    justify-content: center;
 }
