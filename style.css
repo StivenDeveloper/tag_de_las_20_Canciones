@@ -17,7 +17,7 @@ main {
     height: 500px;
     width: 100%;
     border: none;
-    /* background-image:  url("https://media3.giphy.com/media/3lxD1O74siiz5FvrJs/giphy.gif?cid=ecf05e4749qp1mmasl1umjyi6p12a9uegcr6jyyx48ll9w30&rid=giphy.gif&ct=g"); */
+    background-image:  url("https://media3.giphy.com/media/3lxD1O74siiz5FvrJs/giphy.gif?cid=ecf05e4749qp1mmasl1umjyi6p12a9uegcr6jyyx48ll9w30&rid=giphy.gif&ct=g");
 }
  
 footer {
@@ -47,6 +47,5 @@ footer {
     justify-content: right;
     padding: 25px;
     font-size: 1.6rem;
-    font
     
 }
