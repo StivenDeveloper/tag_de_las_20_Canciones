@@ -28,6 +28,7 @@ header {
 }
 main {
     background-color: #E0144C;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/243/476/1013/music-artistic-musical-musical-note-wallpaper-preview.jpg);
     height: 80rem;
     width: 100%;
     border: none;
@@ -69,4 +70,8 @@ button{
     width: 10rem;
     height: 6rem;
 
+}
+
+table{
+    font-size: 2rem;
 }
