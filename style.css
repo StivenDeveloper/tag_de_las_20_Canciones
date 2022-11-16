@@ -34,6 +34,11 @@ main {
     background-image:  url("");
     overflow: auto;
 }
+
+.conteiner-orderlist{
+    font-size: 2rem;
+    margin: 5rem;
+}
  
 footer {
     background-color: #FF97C1;
@@ -51,4 +56,17 @@ footer {
     padding: 25px;
     font-size: 1.6rem;
     
+}
+
+.conterner-button{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+button{
+    background-color: #E0144C;
+    color: white;
+    width: 10rem;
+    height: 6rem;
+
 }
